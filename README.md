@@ -24,4 +24,4 @@ To calculate the simple interest for a principal of 1000, a rate of 5%, and a ti
 
 ./simple-interest.sh 1000 5 2
 
-The script will then output the calculated simple interest.
+The script will then promptly output the calculated simple interest.
